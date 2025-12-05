@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    font-family: IBM Plex Mono Light;
+}
+
+.topo{
+    background: #4a3f3f;
+    padding: 15px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu{
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+}
+
+.planos{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.plano1{
+    background: #e0e0e0;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.plano2{
+    background: #e0e0e0;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.plano3{
+    background: #e0e0e0;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.rodape{
+    text-align: center;
+    padding: 10px;
+    background: #ddd;
+    margin-top: 20px;
+}

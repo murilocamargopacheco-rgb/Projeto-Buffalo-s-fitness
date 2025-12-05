@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Fredoka light;
+}
+
+.cabalho{
+    background: #4a3f3f;
+    padding: 15px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu{
+    margin-left: 15px;
+    font-weight: bold;
+}
+
+.lil-introd{
+    padding: 20px;
+    color: red;
+}
+.links{
+    background-color: gray;
+    display: flex;
+    align-items: center;
+}
+
+.rodape{
+    text-align: center;
+    padding: 10px;
+    background: #ddd;
+    margin-top: 20px;
+}
+
+.uau{
+    color: red;
+}
